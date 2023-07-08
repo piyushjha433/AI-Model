@@ -1,0 +1,2 @@
+# AI-Model
+Freedom Gpt
